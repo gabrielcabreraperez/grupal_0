@@ -1,1 +1,21 @@
 
+*{
+    padding-left: 50px;
+    box-sizing: border-box;
+}
+.contenedor{
+    background-color: blue;
+    padding-left: 100px;
+}
+
+.lista{
+    background-color: rgb(231, 231, 169);
+    color: aliceblue;
+    padding: 20px;
+    float:left
+    
+}
+         
+.lista:hover{
+    background-color: rgb(224, 224, 113);
+}
