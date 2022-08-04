@@ -19,3 +19,8 @@
 .lista:hover{
     background-color: rgb(224, 224, 113);
 }
+
+.img {
+    width:30px;
+    height:30px;
+}
